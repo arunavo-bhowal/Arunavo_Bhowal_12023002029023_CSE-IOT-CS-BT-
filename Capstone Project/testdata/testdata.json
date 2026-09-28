@@ -1,0 +1,15 @@
+{
+    "base_url": "https://automationexercise.com",
+    "name": "Arunavo",
+    "email": "arunavo.selenium.demo7391@example.com",
+    "password": "Test@1234",
+    "first_name": "Arunavo",
+    "last_name": "Demo",
+    "address": "123 Test Street",
+    "state": "Test State",
+    "city": "Test City",
+    "zipcode": "123456",
+    "mobile": "9999999999",
+    "search_word": "Blue Top",
+    "quantity": 3
+}
